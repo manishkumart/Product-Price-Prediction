@@ -1,0 +1,26 @@
+{
+    "id": "DC1E1158",
+    "path": "~/PricePrediction/R/DataPreparation.R",
+    "project_path": "R/DataPreparation.R",
+    "type": "r_source",
+    "hash": "664542652",
+    "contents": "",
+    "dirty": false,
+    "created": 1620556202559.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,25",
+        "scrollLine": "99"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1620561726,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1620561726325,
+    "read_only": false,
+    "read_only_alternatives": []
+}
