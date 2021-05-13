@@ -67,7 +67,7 @@
 - Using a Flask API or on AWS or with a Docker container or any other mode of deployment
 FLASK API
 
-#UI 
+# UI 
 - Rshiny Dashboard (Local)*
 
 
