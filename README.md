@@ -1,14 +1,14 @@
 # Product-Price-Prediction
-Dataset 
+# Dataset 
 	- https://www.kaggle.com/c/mercari-price-suggestion-challenge/overview
 
 
-Tools/Libraries - R
+# Tools/Libraries - R
 
 
-EDA - What analysis will you perform and brief explanation on your observations
-Univariate analysis 
-Bivariate analysis
+# EDA 
+- Univariate analysis 
+- Bivariate analysis
 
 
 
